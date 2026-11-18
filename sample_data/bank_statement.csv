@@ -1,0 +1,14 @@
+date,amount,type,category,note
+2026-09-01,50000,income,salary,September salary
+2026-09-03,2400,expense,food,Groceries
+2026-09-10,1200,expense,transport,Bus pass
+2026-09-15,1800,expense,entertainment,Movies
+2026-10-01,50000,income,salary,October salary
+2026-10-04,3100,expense,food,Groceries
+2026-10-12,1500,expense,transport,Fuel
+2026-10-20,2600,expense,entertainment,Concert
+2026-11-01,50000,income,salary,November salary
+2026-11-02,3900,expense,food,Groceries
+2026-11-09,1700,expense,transport,Fuel
+2026-11-15,3400,expense,entertainment,Trip
+bad-date,100,expense,food,This row is intentionally invalid

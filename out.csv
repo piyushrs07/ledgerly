@@ -1,0 +1,18 @@
+date,amount,type,category,note
+2026-09-01,50000.00,income,salary,September salary
+2026-09-03,2400.00,expense,food,Groceries
+2026-09-10,1200.00,expense,transport,Bus pass
+2026-09-15,1800.00,expense,entertainment,Movies
+2026-09-30,10000.00,expense,rent,
+2026-10-01,50000.00,income,salary,October salary
+2026-10-04,3100.00,expense,food,Groceries
+2026-10-12,1500.00,expense,transport,Fuel
+2026-10-20,2600.00,expense,entertainment,Concert
+2026-10-30,10000.00,expense,rent,
+2026-11-01,50000.00,income,salary,November salary
+2026-11-02,3900.00,expense,food,Groceries
+2026-11-09,1700.00,expense,transport,Fuel
+2026-11-15,3400.00,expense,entertainment,Trip
+2026-11-18,500.00,expense,food,groceries
+2026-11-18,50000.00,income,salary,
+2026-11-18,600.00,expense,food,

@@ -1,0 +1,5 @@
+[run]
+source = ledgerly
+omit =
+    ledgerly/ui.py
+    ledgerly/__main__.py
