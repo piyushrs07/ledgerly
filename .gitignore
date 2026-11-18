@@ -7,3 +7,7 @@ htmlcov/
 *.png
 !docs/*.png
 .venv/
+
+*.egg-info/
+out.csv
+my_export.csv

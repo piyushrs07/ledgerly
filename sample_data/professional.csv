@@ -1,0 +1,20 @@
+date,amount,type,category,note
+2026-09-01,60000,income,salary,September salary
+2026-09-05,6500,expense,groceries,Monthly groceries
+2026-09-10,2400,expense,utilities,Electricity and internet
+2026-09-14,4200,expense,shopping,Clothes
+2026-09-20,1800,expense,travel,Weekend trip
+2026-09-25,2500,expense,dining,Restaurants
+2026-10-01,60000,income,salary,October salary
+2026-10-05,7000,expense,groceries,Monthly groceries
+2026-10-10,2600,expense,utilities,Electricity and internet
+2026-10-14,6800,expense,shopping,Festival shopping
+2026-10-20,2200,expense,travel,Cab and fuel
+2026-10-26,3000,expense,dining,Restaurants
+2026-11-01,60000,income,salary,November salary
+2026-11-05,7400,expense,groceries,Monthly groceries
+2026-11-10,2500,expense,utilities,Electricity and internet
+2026-11-14,9500,expense,shopping,Phone accessories and clothes
+2026-11-16,1500,expense,travel,Cab and fuel
+2026-11-17,3600,expense,dining,Restaurants
+2026-11-20,2000,gift,shopping,Invalid type on purpose

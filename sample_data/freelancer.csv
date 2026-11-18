@@ -1,0 +1,21 @@
+date,amount,type,category,note
+2026-09-04,20000,income,projects,Website project
+2026-09-22,15000,income,projects,Logo and branding
+2026-09-02,3000,expense,software,Design tools
+2026-09-06,1200,expense,internet,Broadband
+2026-09-12,5500,expense,food,Meals
+2026-09-18,2000,expense,travel,Client visit
+2026-10-08,32000,income,projects,App design
+2026-10-25,20000,income,projects,Dashboard work
+2026-10-02,3000,expense,software,Design tools
+2026-10-06,1200,expense,internet,Broadband
+2026-10-13,6200,expense,food,Meals
+2026-10-17,3500,expense,travel,Conference trip
+2026-10-21,8000,expense,equipment,Monitor
+2026-11-05,25000,income,projects,Website revamp
+2026-11-19,16000,income,projects,Report design
+2026-11-02,3200,expense,software,Design tools
+2026-11-06,1200,expense,internet,Broadband
+2026-11-11,7000,expense,food,Meals
+2026-11-13,2800,expense,travel,Client visit
+2026-11-21,500,expense,,Missing category on purpose
